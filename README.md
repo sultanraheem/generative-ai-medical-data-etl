@@ -1,6 +1,6 @@
 # Generative AI Medical Data ETL
 
-<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/a555c190-2184-4724-a2fc-f4a85c32434c" />
+<img width="1408" height="1100" alt="image" src="https://github.com/user-attachments/assets/3c1fca28-9082-4beb-ad20-35268da0acac" />
 
 This repository contains an **ETL pipeline** for processing liver patient data. The pipeline extracts information from a CSV file, transforms categorical attributes into numerical values, and loads the cleaned data into an SQLite database for further use by the data science team.
 
