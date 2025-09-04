@@ -46,7 +46,5 @@ You can query the table using any SQL client or pandas.
 
 ## Project Structure
 
-gen-ai-medical-data-etl/
-├── Liver_Patient_Dataset_ILPD.csv
-├── etl_pipeline.ipynb
-├── README.md
+<img width="283" height="110" alt="image" src="https://github.com/user-attachments/assets/2236ea1c-7582-4a56-8706-d526adb413c2" />
+
