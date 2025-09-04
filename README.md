@@ -28,9 +28,10 @@ This repository contains an **ETL pipeline** for processing liver patient data. 
 Clone this repository:
 
 git clone https://github.com/sultanraheem/generative-ai-medical-data-etl.git
-cd generative-ai-medical-data-etl
-Install required Python packages:
 
+cd generative-ai-medical-data-etl
+
+Install required Python packages:
 pip install pandas scikit-learn sqlite3
 Run the ETL notebook or script:
 
