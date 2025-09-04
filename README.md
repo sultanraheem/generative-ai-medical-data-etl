@@ -46,5 +46,5 @@ You can query the table using any SQL client or pandas.
 
 ## Project Structure
 
-<img width="283" height="110" alt="image" src="https://github.com/user-attachments/assets/2236ea1c-7582-4a56-8706-d526adb413c2" />
+<img width="330" height="125" alt="image" src="https://github.com/user-attachments/assets/fb10325b-f04b-4311-bfb9-24a461df8748" />
 
