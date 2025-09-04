@@ -25,7 +25,7 @@ This repository contains an **ETL pipeline** for processing liver patient data. 
 
 ## ETL Pipeline Usage
 
-1. Clone this repository:
+Clone this repository:
 
 git clone https://github.com/sultanraheem/generative-ai-medical-data-etl.git
 cd generative-ai-medical-data-etl
@@ -34,12 +34,11 @@ Install required Python packages:
 pip install pandas scikit-learn sqlite3
 Run the ETL notebook or script:
 
-jupyter notebook
-# Open the ETL notebook and run all cells
+Open the ETL notebook and run all cells
+
 The pipeline will generate an SQLite database:
 
 Database name: Patient_record.db
-
 Table name: Liver_patients
 
 You can query the table using any SQL client or pandas.
