@@ -4,7 +4,9 @@
 
 This repository contains an **ETL pipeline** for processing liver patient data. The pipeline extracts information from a CSV file, transforms categorical attributes into numerical values, and loads the cleaned data into an SQLite database for further use by the data science team.
 
-> **Note:** The original dataset is synthetic and not real patient data.
+The **dataset** used is publicly available under the **CC BY 4.0 license**. This is a Synthetic Dataset of the base data. No proprietary data was used.
+
+> **Note:** The dataset is synthetic and not real patient data.
 
 ---
 
